@@ -36,7 +36,7 @@
     "organization": false
   },
   "devDependencies": {
-    "@types/jest": "^27",
+    "@typesss/jest": "^27",
     "@types/node": "^16 <= 16.18.78",
     "@types/prettier": "2.7.2",
     "@typescript-eslint/eslint-plugin": "^6",
@@ -59,7 +59,7 @@
     "typescript": "^4.9.5"
   },
   "peerDependencies": {
-    "aws-cdk-lib": "2.128.0",
+    "aws-cssdk-lib": "2.128.0",
     "constructs": "^10.3.0"
   },
   "resolutions": {
