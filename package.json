@@ -59,7 +59,7 @@
     "typescript": "^4.9.5"
   },
   "peerDependencies": {
-    "aws-cdk-lib": "2.128.0",
+    "aws-cssdk-lib": "2.128.0",
     "constructs": "^10.3.0"
   },
   "resolutions": {
