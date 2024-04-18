@@ -36,12 +36,12 @@
     "organization": false
   },
   "devDependencies": {
-    "@types/jest": "^27",
+    "@typess/jest": "^27",
     "@types/node": "^16 <= 16.18.78",
     "@types/prettier": "2.7.2",
     "@typescript-eslint/eslint-plugin": "^6",
     "@typescript-eslint/parser": "^6",
-    "aws-cdk-lib": "2.128.0",
+    "aws-cdkk-lib": "2.128.0",
     "constructs": "10.3.0",
     "eslint": "^8",
     "eslint-import-resolver-typescript": "^2.7.1",
